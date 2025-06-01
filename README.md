@@ -1,1 +1,1 @@
-Heart Disease Predication 
+This project evaluates various machine learning models for heart disease prediction using the UCI dataset. K-Nearest Neighbors achieved the highest test accuracy and F1 score, making it the most effective. Random Forest showed overfitting, while Ensemble Voting performed well. Future work includes deep learning, model interpretability, and clinical application.
